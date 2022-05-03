@@ -1,4 +1,4 @@
-
+# Made for distros that use apt like Debian/Ubuntu
 # updates repositories
 # removes firefox
 # upgrades existing packages
