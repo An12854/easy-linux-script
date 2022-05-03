@@ -1,7 +1,7 @@
 # linux-first-time-gaming-script
 Simple script to make my linux installs more automated.
 
-Not much since I'm shit at this but it may interest you.
+Not much since I'm bad at this but it may interest you.
 
 **Disclaimer:** I am ***NOT*** responsible for any problems that the script can cause (like uninstall a vital package because of a bug), read the script and run it at your leisure.
 
