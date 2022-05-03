@@ -28,3 +28,5 @@ chmod +x script-install-(repository).sh
 ./script-install-(repository).sh
 ```
 And that's it! If anything fails send an issue.
+
+**Disclaimer:** I am ***NOT*** responsible for any problems that the script can cause (like uninstall a vital package because of a bug), read the script and run it at your leisure.
