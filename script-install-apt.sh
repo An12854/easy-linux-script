@@ -1,6 +1,6 @@
 # Made for distros that use apt like Debian/Ubuntu
 # updates repositories
-# removes firefox
+# removes firefox, not really my cup of tea
 # upgrades existing packages
 # installs google chrome
 # installs discord
