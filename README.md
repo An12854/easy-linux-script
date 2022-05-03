@@ -26,6 +26,6 @@ cd linux-first-time-gaming-script/
 
 chmod +x script-install-(repository).sh
 
-sudo ./script-install-(repository).sh
+./script-install-(repository).sh
 ```
 And that's it! If anything fails send an issue.
