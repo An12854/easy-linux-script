@@ -12,6 +12,8 @@ Not much since I'm bad at this but it may interest you.
 ```
 Ubuntu/Debian: sudo apt update && sudo apt install -y git (flag -y(es) means it will automatically confirm the command)
 
+Fedora/CentOS: sudo dnf install git -y (flag -y(es) means it will automatically confirm the command)
+
 Arch Linux: sudo pacman -Syy --noconfirm && sudo pacman -S --noconfirm git (flag --noconfirm means that it won't ask yes/no)
 
 openSUSE: sudo zypper up -y && sudo zypper in -y git (flag -y(es) means it will automatically confirm the command)
