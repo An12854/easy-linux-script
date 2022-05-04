@@ -8,4 +8,4 @@
 # installs flameshot, a screenshot taking tool
 # installs neofetch, a command-line system information tool
 
-sudo dnf remove firefox -y && sudo dnf upgrade -y && sudo dnf install fedora-workstation-repositories -y && sudo dnf config-manager --set-enabled google-chrome && sudo dnf install google-chrome-stable -y && sudo dnf install discord steam flameshot neofetch vlc -y
+sudo dnf remove -y firefox && sudo dnf upgrade -y && sudo dnf install -y fedora-workstation-repositories && sudo dnf config-manager --set-enabled google-chrome && sudo dnf install -y google-chrome-stable && sudo dnf install -y discord steam flameshot neofetch vlc
