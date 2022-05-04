@@ -1,4 +1,4 @@
-# Made for distros that use dnf like Fedora
+# Made for distros that use dnf like Fedora/CentOS
 # removes firefox, not really my cup of tea
 # upgrades existing packages
 # installs google chrome
