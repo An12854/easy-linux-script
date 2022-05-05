@@ -17,6 +17,8 @@ Fedora/CentOS: sudo dnf install git -y (flag -y(es) means it will automatically 
 Arch Linux: sudo pacman -Syy --noconfirm && sudo pacman -S --noconfirm git (flag --noconfirm means that it won't ask yes/no)
 
 openSUSE: sudo zypper up -y && sudo zypper in -y git (flag -y(es) means it will automatically confirm the command)
+
+Gentoo: sudo emaint sync && sudo emerge dev-vcs/git
 ```
 
 # 2. Downloading and running the script
