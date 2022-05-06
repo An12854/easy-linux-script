@@ -5,6 +5,13 @@ Not much since I'm bad at this but it may interest you.
 
 **Disclaimer:** I am ***NOT*** responsible for any problems that the script can cause (like uninstall a vital package because of a bug), read the script and run it at your leisure.
 
+# What it does
+> Updates repositories
+> Removes Firefox (on distros that have it)
+> Upgrades packages
+> Installs Google Chrome, Discord, Steam, VLC, Flameshot, neofetch and htop when possible
+
+
 # How to run
 ## 1.Installing git (If not already installed)
 ### Package Managers
