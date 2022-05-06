@@ -7,8 +7,11 @@ Not much since I'm bad at this but it may interest you.
 
 # What it does
 > Updates repositories
+> 
 > Removes Firefox (on distros that have it)
+> 
 > Upgrades packages
+> 
 > Installs Google Chrome, Discord, Steam, VLC, Flameshot, neofetch and htop when possible
 
 
