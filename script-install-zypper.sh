@@ -10,4 +10,4 @@
 # installs neofetch, a command-line system information tool
 # installs htop, an interactive process viewer
 
-sudo zypper addrepo http://dl.google.com/linux/chrome/rpm/stable/x86_64 Google-Chrome && sudo zypper refresh -y && sudo zypper in -y wget && wget https://dl.google.com/linux/linux_signing_key.pub && sudo rpm --import linux_signing_key.pub && sudo zypper in -y google-chrome-stable && sudo zypper rm  -y firefox && sudo zypper up -y && sudo zypper install -y discord steam flameshot neofetch vlc htop
+sudo zypper addrepo http://dl.google.com/linux/chrome/rpm/stable/x86_64 Google-Chrome && sudo zypper refresh -n && sudo zypper -n in wget && wget https://dl.google.com/linux/linux_signing_key.pub && sudo rpm --import linux_signing_key.pub && sudo zypper -n in google-chrome-stable && sudo zypper -n rm firefox && sudo zypper -n up && sudo zypper -n install discord steam flameshot neofetch vlc htop
