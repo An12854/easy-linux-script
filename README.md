@@ -8,7 +8,7 @@ Not much since I'm bad at this but it may interest you.
 # What it does
 > Updates repositories
 > 
-> Removes Firefox (on distros that have it)
+> Removes Firefox (if your chosen distro doesn't have it, remove the command from the script, else it will crash)
 > 
 > Upgrades packages
 > 
