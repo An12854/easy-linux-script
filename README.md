@@ -12,7 +12,7 @@ Not much since I'm bad at this but it may interest you.
 > 
 > Upgrades packages
 > 
-> Installs Google Chrome, Discord, Steam, VLC, Flameshot, neofetch, htop, wine and lutris when possible
+> Installs Google Chrome, Discord, Steam, VLC, Flameshot, neofetch, htop, wine and Lutris when possible
 
 
 # How to run
