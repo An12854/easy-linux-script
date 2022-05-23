@@ -1,4 +1,5 @@
 # Made for distros that use portage like Gentoo
+# This script is very untested, i still haven't had time to use gentoo, run it in a vm if you want to test it and create an issue for any problems
 # updates repositories
 # upgrades existing packages
 # installs google chromium
