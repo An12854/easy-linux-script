@@ -1,4 +1,5 @@
 # Made for distros that use swupd like Clear Linux
+# installs flatpak, a utility for software deployment and package management for Linux
 # installs discord
 # installs steam
 # installs vlc
