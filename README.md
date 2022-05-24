@@ -1,5 +1,5 @@
 # easy-linux-script
-Simple script to make my linux installs more automated.
+Simple script collection to make my linux installs more automated.
 
 Not much since I'm bad at this but it may interest you.
 
