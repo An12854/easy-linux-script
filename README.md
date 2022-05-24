@@ -1,4 +1,4 @@
-# linux-first-time-gaming-script
+# easy-linux-script
 Simple script to make my linux installs more automated.
 
 Not much since I'm bad at this but it may interest you.
@@ -36,9 +36,9 @@ Clear Linux: sudo swupd bundle-add git
 # 2. Downloading and running the script
 
 ```
-git clone https://github.com/An12854/linux-first-time-gaming-script.git
+git clone https://github.com/An12854/easy-linux-script.git
 
-cd linux-first-time-gaming-script/
+cd easy-linux-script/
 
 chmod +x script-install-(repository).sh
 
