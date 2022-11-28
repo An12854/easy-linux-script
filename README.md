@@ -10,7 +10,7 @@ Not much since I'm bad at this but it may interest you.
 > 
 > Upgrades packages
 > 
-> Installs ~~Google Chrome~~, Discord, Steam, VLC, Flameshot, neofetch, htop, wine and Lutris when possible
+> Installs ~~Google Chrome~~, Firefox, Discord, Steam, VLC, Flameshot, neofetch, htop, wine and Lutris when possible
 >
 > Due to Manifest V3, Chromium based browsers will be excluded from the script
 
