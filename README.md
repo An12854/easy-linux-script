@@ -8,11 +8,11 @@ Not much since I'm bad at this but it may interest you.
 # What it does
 > Updates repositories
 > 
-> Removes Firefox (if your chosen distro doesn't have it, remove the command from the script, else it will crash)
-> 
 > Upgrades packages
 > 
-> Installs Google Chrome, Discord, Steam, VLC, Flameshot, neofetch, htop, wine and Lutris when possible
+> Installs ~~Google Chrome~~, Discord, Steam, VLC, Flameshot, neofetch, htop, wine and Lutris when possible
+>
+> Due to Manifest V3, Chromium based browsers will be excluded from the script
 
 
 # How to run
