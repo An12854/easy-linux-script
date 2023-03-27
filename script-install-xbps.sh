@@ -1,4 +1,4 @@
-Made for distros that use xbps, like Void Linux
+# Made for distros that use xbps, like Void Linux
 # updates repositories
 # upgrades existing packages
 # installs steam, a video game digital distribution service
