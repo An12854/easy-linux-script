@@ -1,7 +1,6 @@
 Made for distros that use xbps, like Void Linux
 # updates repositories
 # upgrades existing packages
-# installs KDE Plasma and dependancies, a desktop envinroment
 # installs steam, a video game digital distribution service
 # installs vlc, a media player
 # installs flameshot, a screenshot taking tool
