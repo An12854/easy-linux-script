@@ -31,6 +31,8 @@ openSUSE: sudo zypper up -y && sudo zypper in -y git (flag -y(es) means it will 
 Gentoo: sudo emaint sync && sudo emerge dev-vcs/git
 
 Clear Linux: sudo swupd bundle-add git
+
+Void Linux: sudo xbps-install -Suy && sudo xbps-install -y git (flag -y(es) means it will automatically confirm the command)
 ```
 
 # 2. Downloading and running the script
